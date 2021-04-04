@@ -19,7 +19,7 @@ This is used in the demonstration of development of Ansible Playbooks.
 ## 2. Install and Configure Web Server
 
 Install Python Flask dependency
-
+    apt-get install python3-pip
     pip install flask
     pip install flask-mysql
 
